@@ -1,0 +1,4 @@
+{"timestamp": "06-24 11:07:59", "role": "actor", "input_tokens": 10, "output_tokens": 20, "batch": false, "batch_size": 1, "num_flatten_calls": 0}
+{"timestamp": "06-24 11:07:59", "role": "evaluator", "input_tokens": 30, "output_tokens": 40, "batch": false, "batch_size": 1, "num_flatten_calls": 0}
+{"timestamp": "06-24 11:07:59", "role": "actor", "input_tokens": 5, "output_tokens": 5, "batch": false, "batch_size": 1, "num_flatten_calls": 0}
+{"timestamp": "06-24 11:07:59", "role": "actor", "input_tokens": 100, "output_tokens": 150, "batch": true, "batch_size": 4, "num_flatten_calls": 4}

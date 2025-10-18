@@ -1,0 +1,18 @@
+.vscode/
+__pycache__/
+# Ignore everything in examples/
+examples/*
+
+# Allow the math_qa directory itself (so we can unignore specific files)
+!examples/math_qa/
+
+# Ignore everything inside math_qa by default
+examples/math_qa/*
+
+# Allow only these two files
+!examples/math_qa/main_search.py
+!examples/math_qa/main_cot.py
+!examples/math_qa/eval_bfs.ipynb
+!examples/math_qa/eval_cot.ipynb
+!examples/math_qa/eval_mcts.ipynb
+
