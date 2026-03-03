@@ -1,3 +1,4 @@
+[Deprecated] Recommend using [LiTS](https://github.com/xinzhel/lits-llm) to reproduce CiT.
 
 # LLM Search Code
 The `langagent` package implements modular implementations of popular LLM search algorithms, e.g., Tree-Of-Thoughts, Reasoning via Planning (RAP).
