@@ -33,3 +33,14 @@ main(
 * bn_method: "direct", "entropy" (corresponding to sc1 in the paper), "sc" (corresponding to sc2 in the paper)
 * bn_model_name: name of the model to be used for continuation
 * eval_idx: list of indices of examples to be evaluated. By default, all the 100 examples are evaluated.
+
+## Reference
+```bibtex
+@inproceedings{li2026chainintree,
+  title={Chain-in-Tree: Back to Sequential Reasoning in {LLM} Tree Search},
+  author={Li, Xinzhe},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  year={2026},
+  url={https://openreview.net/forum?id=l4YrnqAogl}
+}
+```
