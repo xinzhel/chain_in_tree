@@ -1,4 +1,4 @@
-# [Deprecated] We recommend using [LiTS](https://github.com/xinzhel/lits-llm) to reproduce CiT. LiTS is a general-purpose tree search framework. An updated version, along with a clear guide for applying it to CiT, will be released on April 26, 2026.
+# [Deprecated] We recommend using [LiTS](https://github.com/xinzhel/lits-llm) to reproduce CiT. LiTS is a general-purpose tree search framework. An updated version, along with a clear guide for applying it to CiT, will be released later.
 
 # LLM Search Code
 The `langagent` package implements modular implementations of popular LLM search algorithms, e.g., Tree-Of-Thoughts, Reasoning via Planning (RAP).
